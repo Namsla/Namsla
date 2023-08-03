@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Namkhang
-- 👀 I’m interested in coding, chemistry, and finance.
+- 👀 I have interest in coding, chemistry, and finance.
 - 🌱 I’m currently learning react, redux, and typescript
 - 💞️ I’m looking to collaborate on mobile apps and web projects
 - 📫 You can reach me at https://www.linkedin.com/in/namsla/
